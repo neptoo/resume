@@ -1,5 +1,3 @@
-## Personal Resume
-![resume](https://raw.githubusercontent.com/neptoo/resume/master/resume.jpg)
 ## Introduction
 模板基于 [DIYgod](https://github.com/DIYgod/Resume "DIYgod")
 ## Usage
